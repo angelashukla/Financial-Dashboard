@@ -3,6 +3,9 @@ A visually interactive Financial Performance Dashboard built using Power BI to a
 ## 🚀 Key Insights Displayed
 
 The dashboard highlights the following **top-level KPIs**:
+# 📊 Financial Power BI Dashboard
+
+![Dashboard Preview](assets/dashboard-preview.png)
 
 | KPI | Value |
 |-----|-------|
