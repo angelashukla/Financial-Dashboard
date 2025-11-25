@@ -1,11 +1,16 @@
-# Financial-Dashboard
-A visually interactive Financial Performance Dashboard built using Power BI to analyze sales, profitability, and product trends across regions, customer segments, and time.   This dashboard enables quick decision-making by turning raw financial data into meaningful insights.
-## 🚀 Key Insights Displayed
-
-The dashboard highlights the following **top-level KPIs**:
 # 📊 Financial Power BI Dashboard
 
-![Dashboard Preview](assets/dashboard-preview.png)
+An interactive and visually rich **Financial Performance Dashboard** built using **Power BI** to analyze sales, profits, COGS, customer segments, products, and regional performance.
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](/mnt/data/WhatsApp Image 2025-11-24 at 13.36.38.jpeg)
+
+---
+
+## 🚀 Key KPIs Displayed
 
 | KPI | Value |
 |-----|-------|
@@ -15,43 +20,24 @@ The dashboard highlights the following **top-level KPIs**:
 | 🧾 COGS | 101.83M |
 | 🛍️ Total Products | 700 |
 
-> All values dynamically update based on user-selected filters.
+---
+
+## 📌 Insights & Charts Included
+
+The dashboard delivers deep-dive analytics using multiple visualizations:
+
+- 📊 **Sales & Profit by Product** (bar chart)
+- 🌍 **Sales by Country** (donut chart)
+- 🧩 **Sales by Segment** (pie chart)
+- 📅 **Sales Trend by Month & Year** (clustered column + line chart)
+- 🔁 **Quantity / Profit by Product Comparison** (dual-axis chart)
+- 🔽 **Interactive filters** — Year, Month, Product
+
+All elements support drill-down and cross-filtering for faster insights.
 
 ---
 
-## 📌 Dashboard Visuals & Analysis
-
-The dashboard contains multiple interactive visualizations, including:
-
-### 🔹 Sales & Profit by Product
-Bar chart comparing product-wise revenue and profitability.
-
-### 🔹 Sales by Country
-Donut chart representing % share of total sales across countries.
-
-### 🔹 Sales by Segment
-Pie chart to understand customer category contribution (e.g., Enterprise, Government, Midmarket, etc.).
-
-### 🔹 Sales Trend by Month & Year
-Clustered column chart showing monthly sales + line trend for profit over time.
-
-### 🔹 Quantity & Profit by Product
-Dual-axis chart to compare product-wise quantity sold and profitability.
-
----
-
-## 🧭 Filters & Interactivity
-
-Users can slice and analyze data using:
-- **Year filter**
-- **Month filter**
-- **Product filter**
-
-All visuals update automatically using **cross-filtering and drill-down** functionality.
-
----
-
-## 📂 Project File
+## 🗂️ Project File
 
 | File | Description |
 |------|-------------|
@@ -59,30 +45,31 @@ All visuals update automatically using **cross-filtering and drill-down** functi
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚙️ Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| Power BI Desktop | Data modeling & dashboard development |
+| Tech | Purpose |
+|------|---------|
+| Power BI Desktop | Data visualization & report creation |
 | DAX | KPI calculations |
-| Data Visualization | Storytelling & insights |
+| Data Modeling | Relationships and measures |
+| Business Intelligence | Decision-support insights |
 
 ---
 
-## 🔮 Future Enhancements (Optional)
+## 🔮 Future Enhancements
 
-- YoY variance & rolling average metrics
-- AI insights using Power BI Copilot
-- Row-Level Security for user-based access control
-- Publish to Power BI Service (auto-refresh + sharing)
+- YoY growth and MoM % change visualizations
+- RLS (Row-Level Security)
+- Auto-refresh & workspace deployment on Power BI Service
+- Mobile layout optimization
 
 ---
 
 ## 🤝 Contributing
 
-Suggestions and improvements are welcome!  
-If you’d like to contribute:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Submit a pull request
+Contributions are welcome!
+
+1. Fork the repository  
+2. Create a new branch  
+3. Commit your changes  
+4. Open a Pull Request  
