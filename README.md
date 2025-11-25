@@ -6,8 +6,7 @@ An interactive and visually rich **Financial Performance Dashboard** built using
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](/mnt/data/WhatsApp Image 2025-11-24 at 13.36.38.jpeg)
-
+![Dashboard Preview](Financial Dashboard.jpeg)
 ---
 
 ## 🚀 Key KPIs Displayed
