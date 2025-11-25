@@ -4,11 +4,6 @@ An interactive and visually rich **Financial Performance Dashboard** built using
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](Financial Dashboard.jpeg)
----
-
 ## 🚀 Key KPIs Displayed
 
 | KPI | Value |
